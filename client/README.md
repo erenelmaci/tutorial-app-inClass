@@ -4,7 +4,7 @@
 
 ### API ENDPOINTS
 
-- GET `tutorials/` get all Tutorials
+- GET `tutorials/` get all Tutorial
 - GET `tutorials/:id/` get Tutorial by id
 - POST `tutorials/` add new Tutorial
 - PUT `tutorials/:id/` update Tutorial by id
